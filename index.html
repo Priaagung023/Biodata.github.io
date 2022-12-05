@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Profile Pria Agung Laksono</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="left">
+        <img src="agung.jpeg" 
+        alt="user" width="100">
+        <h4>PRIA AGUNG LAKSONO</h4>
+         <p>MAHASISWA TEKNOKRAT INDONESIA</p>
+    </div>
+    <div class="right">
+        <div class="info">
+            <h3>TENTANG SAYA</h3>
+            <div class="info_data">
+                 <div class="data">
+
+                    <h4>Email</h4>
+                    <p>Priaagung12@gmail.com</p>
+                 </div>
+
+                 <div class="data">
+                   <h4>kontak</h4>
+                    <p>+6282281710577</p>
+              </div>
+            </div>
+        </div>
+      
+      <div class="projects">
+            <h3></h3>
+            <div class="projects_data">
+                 <div class="data">
+                    <h4>Hallo</h4>
+                    <p>nama saya Pria agung laksono saya kuliah di universitas teknokrat indonesia, saya mengambil jurusan Teknologi informasi</p>
+                 </div>
+                 <div class="data">
+                   <h4>skill</h4>
+                    <p>1.Html</p>
+                    <p>2.microsoft office(word,exel,powerpoint)</p>
+                    <p>3.corelDraw</p>
+                    <p>4.photoshop</p>
+              </div>
+            </div>
+        </div>
+      
+        <div class="social_media">
+            <ul>
+              <li><a href="https://www.facebook.com/pria.agung.37?mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a></li>
+              
+              <li><a href="https://instagram.com/priaagung023?igshid=ZDdkNTZiNTM="><i class="fab fa-instagram"></i></a></li>
+          </ul>
+      </div>
+    </div>
+</div>
+
+</body>
+</html>
